@@ -33,8 +33,12 @@ Borrow = A’B
 
 Figure -02 HALF Subtractor
 
+
 **Truthtable**
+
+
 <img width="424" height="249" alt="half sub truth table" src="https://github.com/user-attachments/assets/13158fee-24e1-4c4b-a5d1-db4beb40c4e1" />
+
 <img width="436" height="248" alt="half sub2 truth table" src="https://github.com/user-attachments/assets/21fc7e08-40e9-4a58-83e5-38d04c5fc1ca" />
 
 **Procedure**
